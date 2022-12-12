@@ -21,3 +21,4 @@ no test
 * pip install rest-freamework
 
 ## PR
+https://github.com/dinashboul/drf-api-/pull/1
